@@ -14,5 +14,5 @@ A relação entre a frequência cardíaca e o nível de oxigênio está relacion
 
 https://wokwi.com/projects/382231450326932481
 
-Enzo cunha 
-Lucas Laia
+Enzo cunha - 550985
+Lucas Laia - 97709
