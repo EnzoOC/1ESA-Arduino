@@ -13,3 +13,6 @@ A frequência cardíaca (FC) refere-se ao número de batimentos cardíacos por m
 A relação entre a frequência cardíaca e o nível de oxigênio está relacionada ao funcionamento do sistema cardiovascular. O coração bombeia sangue rico em oxigênio para o corpo, e a frequência cardíaca pode variar em resposta às demandas do organismo. Quando a demanda de oxigênio aumenta, como durante o exercício físico, o coração bate mais rápido para fornecer mais oxigênio aos músculos e tecidos.
 
 https://wokwi.com/projects/382231450326932481
+
+Enzo cunha 
+Lucas Laia
